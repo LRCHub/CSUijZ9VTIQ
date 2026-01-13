@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "HIT",
+  "base_artist": "SEVENTEEN",
+  "createdAt": "2026-01-13T23:58:20.991906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hit Me Like That Snare",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/01_Hit_Me_Like_That_Snare_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hit Me Like That Snare",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/02_Hit_Me_Like_That_Snare_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hit The Floor",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/03_Hit_The_Floor_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feel Good Hit of the Fall",
+      "artist": "!!!",
+      "has_synced": true,
+      "path": "select/04_Feel_Good_Hit_of_the_Fall_!!!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hit the North Part 1",
+      "artist": "The Fall",
+      "has_synced": false,
+      "path": "select/05_Hit_the_North_Part_1_The_Fall.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hit the North, Part 1",
+      "artist": "The Fall",
+      "has_synced": true,
+      "path": "select/06_Hit_the_North,_Part_1_The_Fall.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hit 'Em Up",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/07_Hit_'Em_Up_2Pac.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hit Skit",
+      "artist": "Freundeskreis",
+      "has_synced": false,
+      "path": "select/08_Hit_Skit_Freundeskreis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Hit",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/09_The_Hit_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Finna Hit a Lick",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/10_Finna_Hit_a_Lick_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Waiting to Hit",
+      "artist": "Lift to Experience",
+      "has_synced": false,
+      "path": "select/11_Waiting_to_Hit_Lift_to_Experience.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Wanted a Hit",
+      "artist": "LCD Soundsystem",
+      "has_synced": true,
+      "path": "select/12_You_Wanted_a_Hit_LCD_Soundsystem.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "#1 Hit Song",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/13_1_Hit_Song_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hit Em Wit Da Hee",
+      "artist": "Missy Elliott feat. Lil' Kim & Mocha",
+      "has_synced": false,
+      "path": "select/14_Hit_Em_Wit_Da_Hee_Missy_Elliott_feat._Lil'_Kim_&_Mocha.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hit 'em Wit da Hee (feat. Lil' Kim)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/15_Hit_'em_Wit_da_Hee_(feat._Lil'_Kim)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hit 'em Wit Da Hee",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/16_Hit_'em_Wit_Da_Hee_Missy_Elliott.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HIT",
+      "artist": "SEVENTEEN",
+      "has_synced": false,
+      "path": "select/pl_01_HIT_SEVENTEEN.txt"
+    }
+  ]
+}
